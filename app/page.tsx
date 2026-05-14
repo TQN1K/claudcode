@@ -6,7 +6,6 @@ import { ScrollStorySection } from "@/components/ScrollStorySection";
 import { PortfolioSection } from "@/components/PortfolioSection";
 import { WhyChooseSection } from "@/components/WhyChooseSection";
 import { PricingSection } from "@/components/PricingSection";
-import { TestimonialsSection } from "@/components/TestimonialsSection";
 import { FAQSection } from "@/components/FAQSection";
 import { FinalCTASection } from "@/components/FinalCTASection";
 import { ContactForm } from "@/components/ContactForm";
@@ -24,7 +23,6 @@ export default function Home() {
         <PortfolioSection />
         <WhyChooseSection />
         <PricingSection />
-        <TestimonialsSection />
         <FAQSection />
         <FinalCTASection />
         <ContactForm />

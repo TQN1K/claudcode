@@ -16,7 +16,6 @@ const footerLinks = {
     { label: "Why Cloud Pixel", href: "#why-us" },
     { label: "Portfolio", href: "#portfolio" },
     { label: "Pricing", href: "#pricing" },
-    { label: "Testimonials", href: "#testimonials" },
     { label: "FAQ", href: "#faq" },
     { label: "Contact", href: "#contact" },
   ],
